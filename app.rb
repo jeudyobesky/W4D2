@@ -36,9 +36,9 @@ player1.attacks(player2)
   puts "-------------------"
 
 end
+puts ""
 puts "Fin du LAST_SURVIVE"
-puts "-------------------"
-
+puts "==================="
 
 
 
